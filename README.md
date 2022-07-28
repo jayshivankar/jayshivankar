@@ -1,7 +1,7 @@
 ### Hi there 👋
 just a normal guy who loves to --
 
-               /* code 
+  /* code 
 gym
 eat 
 sleep 
