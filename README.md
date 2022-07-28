@@ -1,11 +1,12 @@
 ### Hi there 👋
 just a normal guy who loves to --
 
-      /* code 
+/* code 
 gym
 eat 
 sleep 
 repeat */
-               You can reach me by 
+
+You can reach me by 
 EMAIL:shivankarjay@gmail.com
-   INSTA:jayshivankar_55
+ INSTA:jayshivankar_55
