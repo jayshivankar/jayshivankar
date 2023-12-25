@@ -11,4 +11,4 @@ You can reach me by
 
 EMAIL:shivankarjay@gmail.com
 
-INSTA:jayyyy_5678
+INSTA:jay.shivankar28
