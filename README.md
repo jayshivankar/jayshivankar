@@ -1,5 +1,6 @@
 # 💫 About Me:
-B.Tech student with a strong foundation in data science, machine learning, and statistical analysis<br><br>I have developed hands-on experience in Python, SQL, and data visualization tools.<br><br>I enjoy uncovering insights from data and building predictive models that solve real-world problems.
+B.Tech student with a strong foundation in data science, machine learning, and statistical analysis<br><br>I have developed hands-on experience in Python, SQL, and data visualization tools.<br><br>I enjoy uncovering insights from data and building predictive models that solve real-world problems.<br><br>My AI Portfolio link:
+https://incandescent-kitsune-d3de74.netlify.app
 
 
 ## 🌐 Socials:
